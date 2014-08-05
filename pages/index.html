@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'>
+		<title>Igreja Satânica da América Latina</title>
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel='stylesheet' type='text/css' href='general.css'>
+		<link rel='stylesheet' type='text/css' href='bootstrap.min.css'>
+	</head>
+	<body class="fundo">
+		<div class='container page'>
+			<div class='navbar navbar-inverse sem-margem-inferior fundo-negro'>
+				<div class='navbar-inner'>
+					<a class='brand' href='#'>ISAL - Igreja Satânica da América Latina</a>
+				</div>
+			</div>
+			<div class='banner-topo'>
+				<img class='img-sata borda' src='sata_1.jpg' />
+				<div class='mensagem-diaria borda fundo'></div>
+			</div>
+			<div class='conteudo'>
+				<div class='col01'>
+					<div class='dados-login borda fundo'>
+						<input type='text' id='usrlogin' class='input input-block-level' placeholder='Login' />
+						<input type='password' id='usrpasswd' class='input input-block-level' placeholder='Senha' />
+						<button class='btn btn-inverse' onclick='Membro.doLogin()'>Entrar</button>
+					</div>
+					<div class='dados-usuario borda fundo invisivel'></div>
+					<div class='menu-lateral borda fundo invisivel'></div>
+				</div>
+				<div class='col02'>
+					<div class='area-conteudo borda fundo'>teste</div>
+				</div>
+			</div>
+			<div class="rodape borda fundo">
+				Copyright &copy; 2014 - Igreja Satânica da América Latina
+			</div>
+		</div>
+	</body>
+	<script type='text/javascript' src='jquery.2.1.1.min.js'></script>
+	<script type='text/javascript' src='bootstrap.min.js'></script>
+	<script type='text/javascript' src='md5.js'></script>	
+	<script type='text/javascript' src='json_parse.js'></script>
+	<script type='text/javascript' src='chimages.js'></script>
+	<script type='text/javascript' src='quotes.js'></script>
+	<script type='text/javascript' src='menu.js'></script>
+	<script type='text/javascript' src='membro.js'></script>
+	<script type='text/javascript' src='postagem.js'></script>	 
+	<script type='text/javascript' src='artigo.js'></script>
+	<script>
+		$(window).on('load', function() {
+			setInterval(mudarImagens,5000);
+			quotes();
+		});
+	</script>
+</html>

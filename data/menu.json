@@ -1,0 +1,98 @@
+[
+	{
+		"texto": "Logout",
+		"funcao": "logout"
+	},	
+	{
+		"texto": "Página principal",
+		"snippet": "main"
+	},
+	{
+		"texto": "Mensagens",
+		"snippet": "mensagens"
+	},	
+	{
+		"texto": "sep"
+	},
+	{
+		"texto": "Lições",
+		"snippet": "licoes"
+	},
+	{
+		"texto": "sep"
+	},	
+	{
+		"texto": "Biblioteca",
+		"snippet": "biblioteca"
+	},
+	{
+		"texto": "Videoteca",
+		"snippet": "videoteca"
+	},
+	{
+		"texto": "Galerias",
+		"snippet": "galerias"
+	},	
+	{
+		"texto": "Glossário",
+		"snippet": "glossario"
+	},	
+	{
+		"texto": "Links",
+		"snippet": "links"
+	},
+	{
+		"texto": "Press Releases",
+		"snippet": "press"
+	},	
+	{
+		"texto": "sep"
+	},	
+	{
+		"texto": "Artes",
+		"snippet": "artes"
+	},	
+	{
+		"texto": "Ciência",
+		"snippet": "ciencia"
+	},	
+	{
+		"texto": "Era Satânica",
+		"snippet": "erasatanica"
+	},	
+	{
+		"texto": "Filosofia",
+		"snippet": "filosofia"
+	},	
+	{
+		"texto": "Humor",
+		"snippet": "humor"
+	},	
+	{
+		"texto": "Literatura",
+		"snippet": "literatura"
+	},	
+	{
+		"texto": "Magia Negra",
+		"snippet": "magianegra"
+	},		
+	{
+		"texto": "Oráculos",
+		"snippet": "oraculos"
+	},	
+	{
+		"texto": "Sexo",
+		"snippet": "sexo"
+	},	
+	{
+		"texto": "sep"
+	},		
+	{
+		"texto": "Institucional",
+		"snippet": "institucional"
+	},
+	{
+		"texto": "Termos de uso",
+		"snippet": "termos"
+	}
+]

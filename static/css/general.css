@@ -1,0 +1,143 @@
+body {
+	text-align: center;
+}
+
+.borda {
+	border: 2px solid #ff8c00;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.borda2 {
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+}
+
+.fundo {
+	background-image: url('fundo.png');	
+}
+
+.invisivel {
+	display: none;
+}
+
+.destaque {
+	color: #f00;
+	font-weight: bold;
+}
+
+a.brand {
+	color: #ff8c00 !important;
+}
+
+a.brand:hover {
+	color: #ffd700 !important;
+}
+
+div.page {
+	background-color: #000;
+}
+
+div.sem-margem-inferior {
+	margin-bottom: 0px;
+}
+
+div.fundo-negro {
+	background-color: #000;
+}
+
+div.amarela {
+	background-color: #f3eba3;
+}
+
+div.banner-topo {
+	float: left;
+	width: 900px;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #222;
+}
+
+div.banner-topo img.img-sata {
+	float: left;
+	width: 182px;
+	height: 240px;
+	margin-right: 20px;
+}
+
+div.mensagem-diaria {
+	float: left;
+	width: 650px;
+	height: 200px;
+	padding: 20px;
+	text-align: justify;
+	font-size: 11px;
+}
+
+div.rodape {
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 2%;
+	padding: 6px;
+}
+
+div.conteudo {
+	width: 900px;
+	float: left;
+	background-color: #000;
+	color: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: 20px;
+}
+
+div.menu-lateral {
+	float: left;
+	width: 142px;
+	padding: 20px;
+	text-align: left;	
+}
+
+
+
+div.col01 {
+	float: left;
+	margin-right: 20px;
+	width: 186px;
+}
+
+div.dados-usuario {
+	float: left;
+	width: 142px;
+	padding: 20px;
+	text-align: left;
+	text-align: center;
+	margin-bottom: 20px;
+	color: #111;
+}
+
+div.dados-login {
+	float: left;
+	width: 142px;
+	padding: 20px;
+	text-align: left;
+	text-align: center;
+	margin-bottom: 20px;
+	color: #111;
+}
+
+ul.lista-menu {
+	margin: 0px;
+	list-style: none;
+}
+
+div.area-conteudo {
+	float: left;
+	width: 650px;
+	padding: 20px;
+	color: #000;
+}
+
